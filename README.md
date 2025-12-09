@@ -1,2 +1,3 @@
 # GestaoDeProjeto
-Gestão de Projeto Universitário
+
+Site de Gestão Interna para Projeto Universitário
